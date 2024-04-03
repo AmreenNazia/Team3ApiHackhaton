@@ -1,0 +1,1 @@
+{"uuid":"858f531e-8b31-475f-bc13-7fc85440756d","name":"Scenario: Check if admin able to delete a Batch with invalid endpoint","children":["54bc3909-f12a-4a76-b581-b45a247e14c0"],"befores":[],"afters":[],"start":1712088413559,"stop":1712088413986}

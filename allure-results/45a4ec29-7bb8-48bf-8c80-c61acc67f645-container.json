@@ -1,0 +1,1 @@
+{"uuid":"45a4ec29-7bb8-48bf-8c80-c61acc67f645","name":"Scenario: Check if admin able to create a batch  with inactive program ID","children":["bc30b3f6-0f0b-454a-b5cc-a938056c5469"],"befores":[],"afters":[],"start":1712088405255,"stop":1712088405503}

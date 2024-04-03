@@ -1,0 +1,1 @@
+{"uuid":"f0d5a1a5-7fdd-4cba-a440-bd998b6eb3c9","name":"Scenario: Check if admin able to retrieve a batch with invalid endpoint","children":["a6e86e22-a1fa-4a43-a3ee-5b54eb91dc50"],"befores":[],"afters":[],"start":1712084255100,"stop":1712084255546}

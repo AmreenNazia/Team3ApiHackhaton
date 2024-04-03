@@ -1,0 +1,1 @@
+{"uuid":"421d9692-ea6e-4782-86d9-f255d2568168","name":"Scenario: Check if admin able to retrive a batch after the programID is deleted","children":["23a9120b-6fab-47cf-b7f5-c623e7529ed5"],"befores":[],"afters":[],"start":1712077762727,"stop":1712077763184}

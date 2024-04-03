@@ -1,0 +1,1 @@
+{"uuid":"adcadf44-a962-4043-b03b-fbd53b41a05c","name":"Scenario: Check if admin able to update a Batch with a valid batchID and deleted programID field","children":["b5bba8c3-de6e-4124-8d21-e031048c7e06"],"befores":[],"afters":[],"start":1712073635354,"stop":1712073635626}

@@ -1,0 +1,1 @@
+{"uuid":"3354b0e4-826c-4324-96dc-ee79dba8e7f3","name":"Scenario: Check if admin able to update a Batch with valid batchID and mandatory fields in request body without authorization","children":["7de02f49-7d92-46f4-a501-004d3ac8fb06"],"befores":[],"afters":[],"start":1712093641771,"stop":1712093642215}

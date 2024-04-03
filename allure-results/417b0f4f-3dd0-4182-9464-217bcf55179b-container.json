@@ -1,0 +1,1 @@
+{"uuid":"417b0f4f-3dd0-4182-9464-217bcf55179b","name":"Scenario: Check if admin able to create a batch with invalid data in request body","children":["8b61953f-53e3-4e01-a89a-72454a7f2375"],"befores":[],"afters":[],"start":1712073629417,"stop":1712073629700}

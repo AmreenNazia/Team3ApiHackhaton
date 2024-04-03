@@ -1,0 +1,1 @@
+{"uuid":"915ca679-3480-4ff3-b453-38bc5b69b6ab","name":"Scenario: Check if Admin able to create a program with valid endpoint and request body with Authorization","children":["c9beb3e0-c4ef-4698-84b4-96bc86bb94a5"],"befores":[],"afters":[],"start":1712063650318,"stop":1712063650952}

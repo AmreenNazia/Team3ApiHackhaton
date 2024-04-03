@@ -1,0 +1,1 @@
+{"uuid":"f8ccb596-9d33-4385-9dfb-f6ff5270ec76","name":"Scenario: Check if admin able to delete a Batch with valid Batch ID","children":["dd8a5331-c35a-482b-bc84-3f66dea0f468"],"befores":[],"afters":[],"start":1712085609542,"stop":1712085609992}

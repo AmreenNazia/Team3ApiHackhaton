@@ -1,0 +1,1 @@
+{"uuid":"d5878550-70c4-42e7-8b62-c0ccfa663496","name":"Scenario: Check if admin able to retrieve a batch with valid BATCH NAME","children":["cc7e99d1-a293-43b2-8a16-478782ad6ced"],"befores":[],"afters":[],"start":1712075775382,"stop":1712075775847}

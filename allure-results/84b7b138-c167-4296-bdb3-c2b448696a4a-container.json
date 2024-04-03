@@ -1,0 +1,1 @@
+{"uuid":"84b7b138-c167-4296-bdb3-c2b448696a4a","name":"Scenario: Check if admin able to delete a Batch without authorization","children":["d35aee51-bcc0-4a4a-b3e1-0bb17218d938"],"befores":[],"afters":[],"start":1712093645381,"stop":1712093645793}

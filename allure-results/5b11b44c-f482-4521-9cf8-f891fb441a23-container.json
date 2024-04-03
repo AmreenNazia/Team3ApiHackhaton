@@ -1,0 +1,1 @@
+{"uuid":"5b11b44c-f482-4521-9cf8-f891fb441a23","name":"Scenario: Check if user able to login without token and valid credential","children":["0c568b39-718e-41b7-9780-8a5579cd9dea"],"befores":[],"afters":[],"start":1712087751830,"stop":1712087752252}

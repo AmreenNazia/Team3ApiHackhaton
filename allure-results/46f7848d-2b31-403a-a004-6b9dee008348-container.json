@@ -1,0 +1,1 @@
+{"uuid":"46f7848d-2b31-403a-a004-6b9dee008348","name":"Scenario: Check if admin able to retrieve all batches with search string","children":["dbcfea94-a199-466e-9dff-c33e2e223d61"],"befores":[],"afters":[],"start":1712093633093,"stop":1712093633525}

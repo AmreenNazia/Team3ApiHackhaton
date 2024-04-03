@@ -1,0 +1,66 @@
+{
+	"CreateProgramId": {
+		"programDescription": "TestingAPIs",
+		"programName": "ApiAutoamatosrq1293",
+		"programStatus": "Active"
+	},
+	"UpdateProgramId": {
+		"programDescription": "TestAutomattor1s",
+		"programName": "Api3211Automatorsq129",
+		"programStatus": "Active"
+	},
+	"UpdateProgramName": {
+		"programDescription": "Testsingsq1111a",
+		"programName": "ApiAutoamatorsq7311",
+		"programStatus": "Active"
+	},
+	"ExistingProgramName": {
+		"programDescription": "TestingAPIs11",
+		"programName": "ApiAutoamatosrq1293",
+		"programStatus": "Active"
+	},
+	"InvalidRequestBody": {
+		"programDescription": "fafdwwsfwadf",
+		"programName": "afdwwwsadaf",
+		"programStatus": "Active"
+	},"InvalidBody": {
+		"programDescription": 1261111 ,
+		"programName": 12341116,
+		"programStatus": 67111816
+	},
+	"MissingBodyvalues": {
+		"programDescription": 12371113,
+		"programName": "",
+		"programStatus": "Active"
+	},
+	"MissingAdditionalField": {
+		"programDescription": "",
+		"programName": "fdfsdshu1dd",
+		"programStatus": "active"
+	},
+	"MissingProgramNameandStatus": {
+		"programDescription": "tep5q1y8",
+		"programName": "",
+		"programStatus": ""
+	},
+	"InvalidProgramName": {
+		"programDescription": 123711611645,
+		"programName": 122113766,
+		"programStatus": 13116715
+	},
+	"InvalidProgramDescription": {
+		"programDescription": 1234776653,
+		"programName": "APiAutomator765540qqtyq",
+		"programStatus": "Active"
+	},
+	"ProgramStatus": {
+		"programDescription": "TestingAPI",
+		"programName": "ApiAutoamatosrq1293",
+		"programStatus": "active"
+	},
+	"InvalidProgramId": {
+		"programDescription": 9231719,
+		"programName": 711672138,
+		"programStatus": 423721112
+	}
+}

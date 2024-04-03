@@ -1,0 +1,1 @@
+{"uuid":"12c0f040-f908-4f86-90c2-7cf21df51b4e","name":"Scenario: Check if admin able to create a batch with invalid endpoint","children":["e01e514a-7f7e-4f25-bed4-4eefb0fa1130"],"befores":[],"afters":[],"start":1712075780122,"stop":1712075780561}

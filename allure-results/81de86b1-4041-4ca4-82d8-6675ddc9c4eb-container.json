@@ -1,0 +1,1 @@
+{"uuid":"81de86b1-4041-4ca4-82d8-6675ddc9c4eb","name":"Scenario: Check if admin able to create a Batch missing mandatory fields in request body","children":["2d672727-994b-4ea0-85a9-9b17072adbe1"],"befores":[],"afters":[],"start":1712078476644,"stop":1712078477101}

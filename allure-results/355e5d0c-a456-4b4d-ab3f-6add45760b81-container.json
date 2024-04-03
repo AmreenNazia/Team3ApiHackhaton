@@ -1,0 +1,1 @@
+{"uuid":"355e5d0c-a456-4b4d-ab3f-6add45760b81","name":"Scenario: Check if Admin able to create a program with invalid endpoint","children":["be6a1b97-d376-41fd-ac09-75016f1e4638"],"befores":[],"afters":[],"start":1712085481700,"stop":1712085482261}

@@ -1,0 +1,1 @@
+{"uuid":"862ccaa8-1259-4ab4-833e-b05875324480","name":"Scenario: Authorized admin is able to create a new user with valid url and request body with mandatory fields.","children":["6724e7bb-5e26-48b5-a62a-33261aa4a033"],"befores":[],"afters":[],"start":1712063543206,"stop":1712063543746}

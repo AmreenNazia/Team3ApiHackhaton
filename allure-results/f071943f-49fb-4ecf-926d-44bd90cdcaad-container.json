@@ -1,0 +1,1 @@
+{"uuid":"f071943f-49fb-4ecf-926d-44bd90cdcaad","name":"Scenario: Check if admin able to retrieve a batch with batch ID without authorization","children":["45867802-f13d-4363-bef7-9076e38a2f2e"],"befores":[],"afters":[],"start":1712077754330,"stop":1712077754769}

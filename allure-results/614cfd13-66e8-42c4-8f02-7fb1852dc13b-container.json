@@ -1,0 +1,1 @@
+{"uuid":"614cfd13-66e8-42c4-8f02-7fb1852dc13b","name":"Scenario: Check if admin able to retrieve a batch with invalid BATCH ID","children":["b30789ee-eddd-4a10-9d81-63d4675f00f8"],"befores":[],"afters":[],"start":1712088749448,"stop":1712088749911}

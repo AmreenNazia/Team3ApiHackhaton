@@ -1,0 +1,1 @@
+{"uuid":"fafa9a99-bc33-453d-8fad-8002bb2a6bbd","name":"Scenario: Check if admin able to update a Batch with a deleted batchID in the endpoint","children":["ef54e311-6e48-48df-be55-f934fb35cc01"],"befores":[],"afters":[],"start":1712087785426,"stop":1712087785882}

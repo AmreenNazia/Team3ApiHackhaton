@@ -1,0 +1,1 @@
+{"uuid":"02d8a3af-fd85-4ed2-837d-90e3f6a1923c","name":"Scenario: Check if Admin able to delete a program without Authorization","children":["be604feb-4de7-4969-9524-72d5bba69c52"],"befores":[],"afters":[],"start":1712093666488,"stop":1712093666933}
